@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/readme-banner.png" alt="AMM Labs — Engineering Digital Excellence" width="100%" />
+<img src="../assets/readme-banner.png" alt="AMM Labs — Engineering Digital Excellence" width="100%" />
 
 <br/>
 
